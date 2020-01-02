@@ -1,0 +1,105 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.slide1 {
+    height: 100%;
+    background-image: url('../images/01.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide2 {
+    height: 100%;
+    background-image: url('../images/02.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide3 {
+    height: 100%;
+    background-image: url('../images/03.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide4 {
+    height: 100%;
+    background-image: url('../images/04.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide5 {
+    height: 100%;
+    background-image: url('../images/05.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide6 {
+    height: 100%;
+    background-image: url('../images/06.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide7 {
+    height: 100%;
+    background-image: url('../images/07.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide8 {
+    height: 100%;
+    background-image: url('../images/08.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide9 {
+    height: 100%;
+    background-image: url('../images/09.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide10 {
+    height: 100%;
+    background-image: url('../images/10.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide11 {
+    height: 100%;
+    background-image: url('../images/11.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.slide12 {
+    height: 100%;
+    background-image: url('../images/12.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
